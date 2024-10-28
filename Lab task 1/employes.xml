@@ -1,0 +1,30 @@
+
+<employes>
+    <employe sr="1">
+        <employe_name> john doe </employe_name>
+        <employe_Address_House>H#38</employe_Address_House>
+        <employe_Address_Road>R#3</employe_Address_Road>
+        <employe_Address_Area>Banani</employe_Address_Area>
+        <employe_Address_District>Dhaka</employe_Address_District>
+        <employe_Department>Sales<employe_Department>
+        <employe_Salary>20000</employe_Salary>    
+    </employe>
+    <employe sr="2">
+        <employe_name> Mark Zuckerberg </employe_name>
+        <employe_Address_Flat>Flat#A/1</employe_Address_Flat>
+        <employe_Address_House>H#20</employe_Address_House>
+        <employe_Address_Road>R#18</employe_Address>
+        <employe_Address_Area>Mirpur</employe_Address_Area>
+        <employe_Address_Division>Dhaka</employe_Address_Division>
+        <employe_Department>Accounts<employe_Department>
+        <employe_Salary>12000</employe_Salary>    
+    </employe>
+    <employe sr="3">
+        <employe_name> Ala Voski </employe_name>
+        <employe_Address_House>H#38</employe_Address_House>
+        <employe_Address_Road>R#3</employe_Address_Road>
+        <employe_Address_Area>Motijheel</employe_Address_Area>
+        <employe_Department>Human Resource<employe_Department>
+        <employe_Salary>30000</employe_Salary>    
+    </employe>
+</employes>
